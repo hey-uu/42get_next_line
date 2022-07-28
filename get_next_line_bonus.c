@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line.c                                    :+:      :+:    :+:   */
+/*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: hyeyukim <hyeyukim@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/24 22:26:36 by hyeyukim          #+#    #+#             */
-/*   Updated: 2022/07/27 22:31:14 by hyeyukim         ###   ########.fr       */
+/*   Created: 2022/07/27 22:56:03 by hyeyukim          #+#    #+#             */
+/*   Updated: 2022/07/28 10:01:45 by hyeyukim         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 int	read_buffer_size(t_list **head, t_list *cur, char *res)
 {

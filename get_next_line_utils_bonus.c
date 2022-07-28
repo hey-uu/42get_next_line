@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: hyeyukim <hyeyukim@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/07/24 22:47:08 by hyeyukim          #+#    #+#             */
-/*   Updated: 2022/07/27 22:31:02 by hyeyukim         ###   ########.fr       */
+/*   Created: 2022/07/27 22:56:23 by hyeyukim          #+#    #+#             */
+/*   Updated: 2022/07/28 10:01:36 by hyeyukim         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 t_list	*create_node(int fd)
 {
